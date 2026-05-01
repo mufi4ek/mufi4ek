@@ -18,10 +18,10 @@
   <img src="https://skillicons.dev/icons?i=vscode,visualstudio&theme=dark" />
 
   <!-- Языки -->
-  <img src="https://skillicons.dev/icons?i=powershell,cs,cpp,c,python,php,javascript,html,mysql&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=cs,cpp,c,python,php,javascript,html,mysql&theme=dark" />
 
   <!-- Прочее -->
-  <img src="https://skillicons.dev/icons?i=discord,spotify&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=spotify,discord&theme=dark" />
 
 </p>
 
