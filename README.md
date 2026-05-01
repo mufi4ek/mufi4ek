@@ -1,5 +1,3 @@
-# `⟦  mufi4ek ⟧`
-
 <p align="center">
   <img src="https://images.cooltext.com/5756999.gif" alt="mufi4ek banner" />
 </p>
