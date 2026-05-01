@@ -1,4 +1,4 @@
-# [[ mufi4ek ]]
+# `[[ mufi4ek ]]`
 
 <p align="center" style="background-color:black; display:inline-block;">
   <img src="https://images.cooltext.com/5756996.gif" alt="mufi4ek banner" />
@@ -8,7 +8,7 @@
 
 ---
 
-## 🚀 Tech Stack
+## `🛠️Tech Stack`
 <p align="center">
   <img src="https://skillicons.dev/icons?i=windows&theme=dark" />
   <img src="https://skillicons.dev/icons?i=vscode,visualstudio&theme=dark" />
@@ -20,7 +20,7 @@
 
 ---
 
-## 📊 Highlights
+## `📊 Highlights`
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mufi4ek&theme=radical" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mufi4ek&theme=radical" />
