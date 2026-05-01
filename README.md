@@ -1,4 +1,4 @@
-# `[[ mufi4ek ]]`
+# `⟦  mufi4ek ⟧`
 
 <p align="center" style="background-color:black; display:inline-block;">
   <img src="https://images.cooltext.com/5756996.gif" alt="mufi4ek banner" />
