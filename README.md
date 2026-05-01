@@ -12,7 +12,7 @@
 ---
 
 ## 📊 GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=mufi4ek&show_icons=true&theme=radical)
+![Stats](https://github-readme-stats.vercel.app/api?username=mufi4ek&show_icons=true&theme=tokyonight)
 ![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mufi4ek&layout=compact&theme=radical)
 
 ---
