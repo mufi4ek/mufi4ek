@@ -2,7 +2,7 @@
 
 ![Banner](https://your-link/banner.png)
 
-**CS2 Server Admin • Plugin Dev • Reverse Engineering • Branding**
+**CS2 Player • All-stack • Developing • Branding**
 
 ---
 
