@@ -1,6 +1,6 @@
 # [[ mufi4ek ]]
 
-<p align="center">
+<p align="center" style="background-color:black; display:inline-block;">
   <img src="https://images.cooltext.com/5756996.gif" alt="mufi4ek banner" />
 </p>
 
@@ -15,10 +15,11 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 Highlights
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mufi4ek&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mufi4ek&layout=compact&theme=radical" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mufi4ek&theme=radical" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mufi4ek&theme=radical" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mufi4ek&theme=radical" />
 </p>
 
 ---
