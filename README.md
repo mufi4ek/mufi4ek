@@ -10,9 +10,20 @@
 
 ## 🚀 Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cs,cpp,c,python,php,powershell,mysql,firebase,unity,unreal,discord,vscode,html,spotify,visualstudio,windows,javascript&theme=dark" />
-</p>
 
+  <!-- ОС -->
+  <img src="https://skillicons.dev/icons?i=windows&theme=dark" />
+
+  <!-- Среды разработки -->
+  <img src="https://skillicons.dev/icons?i=vscode,visualstudio&theme=dark" />
+
+  <!-- Языки -->
+  <img src="https://skillicons.dev/icons?i=cs,cpp,c,python,php,powershell,javascript,html,mysql&theme=dark" />
+
+  <!-- Прочее -->
+  <img src="https://skillicons.dev/icons?i=discord,spotify&theme=dark" />
+
+</p>
 
 
 ---
