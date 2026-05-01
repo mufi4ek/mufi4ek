@@ -1,7 +1,7 @@
 # `⟦  mufi4ek ⟧`
 
 <div style="background-color:black; display:inline-block;">
-  <img src="https://images.cooltext.com/5756996.gif" alt="mufi4ek banner" />
+  <img src="https://images.cooltext.com/5756999.gif" alt="mufi4ek banner" />
 </div>
 
 
