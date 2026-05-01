@@ -1,6 +1,6 @@
 # [[ mufi4ek ]]
 
-![Banner](https://your-link/banner.png)
+![Banner](https://images.cooltext.com/5756995.gif)
 
 **CS2 Player • All-stack • Developing • Branding**
 
