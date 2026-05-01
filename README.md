@@ -10,8 +10,11 @@
 
 ## 🚀 Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cs,cpp,python,sql,bash,linux,aws,firebase,unreal,ps,ai&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=cs,cpp,c,python,nodejs,mysql,sqlite,linux,firebase,unity,unreal&theme=dark" />
+  <img src="https://your-link/cs2-logo.png" width="40" />
+  <img src="https://your-link/workshop-icon.png" width="40" />
 </p>
+
 
 ---
 
