@@ -38,6 +38,6 @@
 ---
 
 ## 🔗 Links
-- 🗂️ [Repositories](https://github.com/mufi4ek)
-- 🌐 [Portfolio](https://yourwebsite.com)
+- 🗂️ [Repositories](https://github.com/mufi4ek?tab=repositories)
+- 🌐 [Portfolio](https://renai3es.pp.ua)
 - 📫 Contact: **owner@renai3es.pp.ua**
